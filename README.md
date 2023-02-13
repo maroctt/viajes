@@ -1,2 +1,2 @@
-# viajes
-Vue3 Web Applicartion. 
+# Pura Vida Viajes (WIP 🚧)
+Vue3 Web Application. 
